@@ -1,5 +1,18 @@
 # Data-science-pandas-sales-analysis
 Set of real world data science tasks completed using the Python Pandas library.
+
+
+
+
+
+
+
+
+
+
+
+
+
 I start by cleaning the data. Tasks during this section include:
 
 Drop NaN values from DataFrame
